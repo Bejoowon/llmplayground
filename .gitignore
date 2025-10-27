@@ -35,3 +35,8 @@ next-env.d.ts
 
 # drizzle
 drizzle
+
+#claude
+.claude
+/.claude/*
+/.claude
